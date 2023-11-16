@@ -1,0 +1,7 @@
+{
+  "name": "com.unity.collab-proxy",
+  "version": "1.0.0",
+  "displayName": "Custom Transform editor",
+  "unity": "2020.3",
+  "description": "this is the custom transformer editor for apply update mode and edit mode"
+}
